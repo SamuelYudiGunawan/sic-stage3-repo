@@ -1,0 +1,1 @@
+print("Aku adalah AI")
